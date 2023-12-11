@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    background-color: azure;
+
+}
+h1 {
+    text-align: center;
+    background-color: orange;
+    color: grey;
+}
+ul {
+    color: grey;
+}
